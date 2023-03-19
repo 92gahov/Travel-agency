@@ -1,1 +1,1 @@
-### My first attempt to create visual part of a website for travel agency.
+## My first attempt to create visual part of a website for travel agency.
